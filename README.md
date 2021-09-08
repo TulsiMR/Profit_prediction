@@ -1,0 +1,2 @@
+# Profit_prediction
+WE have Dataset which contains the details of 50 startup’s .Predicts the profit of a new Startup based on certain features.To Venture Capitalists this could be a boon as to whether they should invest in a particular Startup or not. So Build a Neural Network model to predict profit and which startup’s end up performing better.By seeing that if they spent more money on marketing or was it their stellar R&amp;D department which led them to this huge profit and in turn huge fame and success.
